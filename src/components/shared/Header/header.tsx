@@ -32,7 +32,7 @@ const Header = () => {
             </Link>
         </ul>
         <div className='header-user'>
-            <Image src={avatar} alt='avatar' />
+            <Image src="https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/arataki_itto/image.png?strip=all&quality=100&w=80" alt='avatar' width={50} height={50}/>
         </div>
     </nav>
   )
