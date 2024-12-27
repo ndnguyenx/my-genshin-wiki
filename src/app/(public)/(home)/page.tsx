@@ -1,4 +1,4 @@
-import HomeLayout from '@/layouts/home/HomeLayout'
+import HomeLayout from '@/layouts/public/home/HomeLayout'
 import React from 'react'
 
 const Home = () => {
